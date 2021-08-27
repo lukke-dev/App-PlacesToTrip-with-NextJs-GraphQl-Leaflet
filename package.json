@@ -17,6 +17,7 @@
     ]
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^3.8.0",
     "@types/leaflet": "^1.7.4",
     "leaflet": "^1.7.1",
     "next": "11.0.1",
