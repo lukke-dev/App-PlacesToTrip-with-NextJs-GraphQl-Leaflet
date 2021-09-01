@@ -2,6 +2,7 @@ import styled from 'styled-components'
 
 export const Content = styled.section`
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -17,6 +18,6 @@ export const Heading = styled.h1`
 
 export const Body = styled.div`
   p {
-    font-size: var(--medium);
+    font-size: var(--small);
   }
 `
