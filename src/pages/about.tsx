@@ -1,3 +1,5 @@
-const About = () => <h1>About Page</h1>
+import AboutTemplate from 'templates/About'
+
+const About = () => <AboutTemplate />
 
 export default About
