@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { MapContainer, TileLayer, Marker } from 'react-leaflet'
 
 type Place = {

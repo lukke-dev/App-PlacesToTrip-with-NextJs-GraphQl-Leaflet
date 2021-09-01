@@ -10,12 +10,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "lint-staged": {
-    "src/**/*": [
-      "npm run lint --fix",
-      "npm run test --findRelatedTests --bail"
-    ]
-  },
+
   "dependencies": {
     "@netlify/plugin-nextjs": "^3.8.0",
     "@styled-icons/evaicons-outline": "^10.34.0",
