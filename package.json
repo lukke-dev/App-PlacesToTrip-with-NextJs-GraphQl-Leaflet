@@ -10,11 +10,12 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-
   "dependencies": {
     "@netlify/plugin-nextjs": "^3.8.0",
     "@styled-icons/evaicons-outline": "^10.34.0",
     "@types/leaflet": "^1.7.4",
+    "graphql": "^15.5.2",
+    "graphql-request": "^3.5.0",
     "leaflet": "^1.7.1",
     "next": "11.0.1",
     "next-pwa": "^5.3.1",
